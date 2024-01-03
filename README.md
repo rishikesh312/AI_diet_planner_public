@@ -14,7 +14,7 @@ To run this application, you need to install the required Python libraries.
 
 1. Clone this repository:
    ```
-   git clone [repository URL]
+   git clone https://github.com/rishikesh312/AI_diet_planner_public.git
    ```
 2. Install the requirements:
    ```
