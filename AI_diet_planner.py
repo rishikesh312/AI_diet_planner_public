@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import openai
 
-openai.api_key = "your key here"
-
+openai.api_key = 'YOUR_API_KEY'
 
 budget = st.number_input("Enter your budget (in Euros)", min_value=0)
 age = st.number_input("Enter your age", min_value=0, max_value=120)
